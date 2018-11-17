@@ -32,4 +32,4 @@
 		
 ## 成果展示
  
-![avatar](./img/1.png)
+![avatar](./img/1.gif)
